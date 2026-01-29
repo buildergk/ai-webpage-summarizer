@@ -1,2 +1,4 @@
-# ai-webpage-summarizer
-Webpage summarizer application which summarizes the webpage using LLMs.
+# AI Webpage Summarizer
+Webpage summarizer application which summarizes the webpage using AI & LLMs.
+
+
