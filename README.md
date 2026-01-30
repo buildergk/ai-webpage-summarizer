@@ -28,7 +28,7 @@ You can stop the program anytime by pressing **Ctrl + C**.
 
 - Python **3.9 or higher**
 - Ollama (Local & Free)
-- UV package manager
+- UV package manager ([Setup](https://docs.astral.sh/uv/getting-started/installation/))
 
 Common libraries you need:
 - `requests`
