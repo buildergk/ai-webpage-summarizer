@@ -44,7 +44,15 @@ uv sync
 
 ## How to Run
 
+### Using UV
 ```bash
+uv run main.py
+```
+
+### Using Python
+```bash
+# Run venv activation script (activate.ps1 on powershell, activate.bat on command prompt.)
+.\.venv\Scripts\activate.ps1 
 python main.py
 ```
 
@@ -56,6 +64,9 @@ Select model: gpt-oss
 
 Summary generated successfully!
 ```
+
+![Run AI Webpage Summarizer](./images/ai-webpage-summarizer.jpg)
+
 
 ## 📄 License
 
