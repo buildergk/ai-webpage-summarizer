@@ -4,6 +4,5 @@ __pycache__/
 venv/
 output/
 logs/
-.env
 uv.lock
 .python-version
